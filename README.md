@@ -1,7 +1,7 @@
 # Financial-Econometrics
 
 
-## Topics Covered
+### Topics Covered
 
 The course covers the following topics:
 
@@ -12,11 +12,11 @@ The course covers the following topics:
 5. Out-of-sample Analysis: Describes the process of evaluating the model's performance on unseen data.
 
 
-# Stock Index and GDP Forecasting Using ARIMA Model
+## Stock Index and GDP Forecasting Using ARIMA Model
 
 This project focuses on forecasting the stock index and GDP (Gross Domestic Product) using the ARIMA (AutoRegressive Integrated Moving Average) model. The project utilizes Python, MATLAB, time series analysis, and forecasting techniques to achieve accurate predictions.
 
-## Project Details
+### Project Details
 
 The main objectives of the project are:
 
@@ -24,7 +24,7 @@ The main objectives of the project are:
 - Optimize the model parameters to improve forecasting accuracy.
 - Evaluate the performance of the model and assess its usefulness in financial forecasting.
 
-### Methodology
+#### Methodology
 
 The project follows these steps:
 
@@ -36,10 +36,10 @@ The project follows these steps:
 6. Evaluation: Assess the accuracy and reliability of the forecasts through performance metrics and visualizations.
 7. Interpretation: Analyze the results and draw insights from the forecasted values.
 
-## Project Link
+### Project Link
 
 For more detailed information about the project, including code implementation and results, please visit the [project link](https://github.com/adityamhaske/Financial-Econometrics/Project).
 
-## License
+### License
 This project is licensed under the [MIT License](LICENSE).
 
