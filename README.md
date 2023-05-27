@@ -38,7 +38,7 @@ The project follows these steps:
 
 ### Project Link
 
-For more detailed information about the project, including code implementation and results, please visit the [project link](https://github.com/adityamhaske/Financial-Econometrics/Project).
+For more detailed information about the project, including code implementation and results, please visit the [project link](https://github.com/adityamhaske/Financial-Econometrics/tree/main/Project).
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
